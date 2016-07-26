@@ -1,0 +1,31 @@
+
+body {
+  padding-top: 50px;
+  /*background-color: black;*/
+}
+.template {
+  padding: 40px 15px;
+  text-align: left;
+}
+
+.increase-height {
+    height: 30px !important;
+}
+
+.left-space {
+    margin-left: 30px !important;
+}
+
+.text-width{
+	width: 70px !important;
+}
+
+.custom-button {
+    width: 200px !important;
+    text-align: center;
+}
+
+
+#warningMessage {
+	color: green;
+}
